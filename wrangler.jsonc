@@ -1,6 +1,6 @@
 {
 	"name": "cinqsl-top",
-	"compatibility_date": "2026-02-28", // 更新为你部署当天的日期
+	"compatibility_date": "2026-02-27",
 	"assets": {
 		"directory": "./dist"
 	}
