@@ -1,13 +1,7 @@
 {
-	"main": "dist/_worker.js/index.js",
-	"name": "cinqsl-top",
-	"compatibility_date": "2026-01-27",
-	"compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+	"name": "my-astro-app",
+	"compatibility_date": "2026-02-28", // 更新为你部署当天的日期
 	"assets": {
-		"binding": "ASSETS",
 		"directory": "./dist"
-	},
-	"observability": {
-		"enabled": true
 	}
 }
