@@ -1,5 +1,5 @@
 {
-	"name": "my-astro-app",
+	"name": "cinqsl-top",
 	"compatibility_date": "2026-02-28", // 更新为你部署当天的日期
 	"assets": {
 		"directory": "./dist"
